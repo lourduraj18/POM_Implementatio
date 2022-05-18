@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-16T17:38:20 IST" name="Default suite" finished-at="2022-05-16T17:38:33 IST" duration-ms="12687">
+    <groups>
+    </groups>
+    <test started-at="2022-05-16T17:38:20 IST" name="Default test" finished-at="2022-05-16T17:38:33 IST" duration-ms="12687">
+      <class name="functionalTestingForIntService.AddSlotTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:functionalTestingForIntService.AddSlotTest@1e683a3e]" started-at="2022-05-16T17:38:20 IST" name="launchBrowser" finished-at="2022-05-16T17:38:22 IST" duration-ms="1800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="addSlot()[pri:0, instance:functionalTestingForIntService.AddSlotTest@1e683a3e]" started-at="2022-05-16T17:38:22 IST" name="addSlot" finished-at="2022-05-16T17:38:23 IST" duration-ms="784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addSlot -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:functionalTestingForIntService.AddSlotTest@1e683a3e]" started-at="2022-05-16T17:38:23 IST" name="exit" finished-at="2022-05-16T17:38:33 IST" duration-ms="10080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- functionalTestingForIntService.AddSlotTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
